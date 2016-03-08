@@ -1,4 +1,4 @@
-# Maintainer: @holmeslinux
+# Maintainer: holmeslinux <holmes_holmes@live.com>
 
 pkgname=('jwm-documentation')
 pkgver=16.06
