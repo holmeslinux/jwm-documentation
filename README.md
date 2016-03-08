@@ -1,2 +1,2 @@
 # jwm-documentation
-User Orientation Guide
+User Orientation Guide of the Manjaro JWM Community Edition
